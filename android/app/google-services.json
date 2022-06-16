@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "570007842243",
+    "project_id": "dropat-93ef3",
+    "storage_bucket": "dropat-93ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570007842243:android:f1fdd0581e1eb7266c2176",
+        "android_client_info": {
+          "package_name": "com.example.cat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "570007842243-5vnoucd6u6u87vjl43dmitmlp2dvg2ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cat_app",
+            "certificate_hash": "537e69e3a2ceaad51ea5138eeb007a411aedfa52"
+          }
+        },
+        {
+          "client_id": "570007842243-7rs7b20ctr1j10kkomm2lgntv095al9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cat_app",
+            "certificate_hash": "9df9fc66a8013b70fa1326c1f87d29226a834eeb"
+          }
+        },
+        {
+          "client_id": "570007842243-m3fkj8b2k3ard1kq7dq7qjjlpjetcit6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9tVGK1YiaXeLVfIghoKARX4luN3ftGic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "570007842243-m3fkj8b2k3ard1kq7dq7qjjlpjetcit6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
